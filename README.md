@@ -17,3 +17,7 @@
 -->git push  git@github.com:Ray0401/h5-css3.git master
 //git@github.com:Ray0401/h5-css3.git master 这是远端仓库名
 //git@github.com:Ray0401/h5-css3.git master:dev  表示上传到远端仓库dev分支中
+
+
+
+#通过git status可以检测当前仓库文件的状态（未追踪untracked）。
